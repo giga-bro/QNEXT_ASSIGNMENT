@@ -1,0 +1,6 @@
+chardet
+google-generativeai
+flask
+flask-cors
+psutil
+marshmallow
